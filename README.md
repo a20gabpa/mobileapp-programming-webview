@@ -54,9 +54,9 @@ public void showExternalWebPage(){
 Slutligen uppdaterades även _onOptionSelected()_ för att kalla på de funktionerna så att innehållet visas i applikationen. 
 
 Nedanför visas några skärmbilder från applikationen:
-** Extern **
+## Extern
 ![Screenshot_20240414_221935](https://github.com/a20gabpa/mobileapp-programming-webview/assets/102604680/f153055d-caad-4950-b025-23527f3b24bf)
-** Intern **
+## Intern
 ![Screenshot_20240414_221958](https://github.com/a20gabpa/mobileapp-programming-webview/assets/102604680/b6bcddcd-abc7-4f8c-b6ab-01a5252b1067)
-** Startsida**
+## Startsida
 ![Screenshot_20240414_222013](https://github.com/a20gabpa/mobileapp-programming-webview/assets/102604680/7f209bdd-5165-4850-aeaa-aba9a3f70aed)
