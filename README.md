@@ -1,5 +1,5 @@
 # Rapport
-Det första steget vara tt skapa ett fork projektet på LenaSYS Github. Den första uppgiften handlade om att ändra namnet på applikation samt att ge den tillgång till internet. Detta gjordes genom att att ändra _"app_name"_ i **strings.xml** till A new funny name. Internetåtkomst fixades enkelt genom att lägga till en extra kod rad i **AndroidManifest.xml**. 
+Det första steget vara att skapa en fork av projektet på LenaSYS Github. Först ut var att ändra namnet på applikation samt att ge den tillgång till internet. Detta gjordes genom att att ändra _"app_name"_ i **strings.xml** till A new funny name. Internetåtkomst fixades enkelt genom att lägga till en extra kod rad i **AndroidManifest.xml**. 
 
 **strings.xml**
 ```
